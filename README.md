@@ -1,7 +1,7 @@
 # prudra-pr-policy-test
 
 A test repository for PR (Pull Request) policies with intentional SAST/SCA vulnerabilities for security scanning testing.
-Test1
+Test2
 ## Purpose
 
 This repository contains intentionally vulnerable Java code for testing:
