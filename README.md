@@ -1,4 +1,4 @@
-# prudra-pr-policy-test
+# anjan-pr-policy-test
 
 A test repository for PR (Pull Request) policies with intentional SAST/SCA vulnerabilities for security scanning testing.
 
